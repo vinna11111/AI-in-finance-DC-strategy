@@ -5,7 +5,7 @@ The work was developed as part of the *AI in Finance Assignment*.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 - **Strategy**: Directional-Change (DC) sampling with overshoot scaling.  
 - **Core Idea**:  
   - Open long on DC↑ confirmation.  
